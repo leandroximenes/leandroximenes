@@ -1,18 +1,25 @@
-### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2> Hi, I'm Leandro Ximenes!👋</h2>
+<p>
+ <em>
+  Software Enginner at <a href="http://www.doc.eb.mil.br/">Brasilian Army</a></br>
+  </em>
+</p>
 
- <a href="" target="_blank">
-    <img src="" alt="">
-  </a>
+[![Linkedin: leandroximens](https://img.shields.io/badge/-leandroximenes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroximenes/)](https://www.linkedin.com/in/leandroximenes/)
 
-<p align="center">
+### A little more about me...  
+
+```javascript
+const leandro = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python, PHP],
+  tools: [Vue, Laravel, Docker],
+  architecture: ["monolith", "test driven development", "end to end"],
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+ <p align="center">
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
   </a>
@@ -23,16 +30,32 @@
     <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs">
   </a>
  </p>
- <p>
+ <p align="center">
   <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
   </a>
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Jquery">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel">
   </a>
+   <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">
+  </a>
+   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask">
+  </a>
+</p>
+<p align="center">
    <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres">
   </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+  </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
+  </a>
+  </p>
+ <p align="center">
   <a href="https://www.docker.com" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   </a>
