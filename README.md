@@ -1,11 +1,15 @@
 <h2> Hi, I'm Leandro Ximenes!👋</h2>
 <p>
  <em>
-  Software Enginner at <a href="http://www.doc.eb.mil.br/">Brasilian Army</a></br>
+  Software Enginner at Brasilian Army</br>
+  Hover 10 years of experience
   </em>
 </p>
 
-[![Linkedin: leandroximens](https://img.shields.io/badge/-leandroximenes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroximenes/)](https://www.linkedin.com/in/leandroximenes/)
+[![Linkedin: leandroximenes](https://img.shields.io/badge/-leandroximenes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroximenes/)](https://www.linkedin.com/in/leandroximenes/)
+<br/>
+[leandroximenes.tech](https://leandroximenes.tech)
+
 
 ### A little more about me...  
 
