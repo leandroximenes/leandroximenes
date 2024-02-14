@@ -12,11 +12,19 @@
 ```javascript
 const leandro = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, PHP],
-  tools: [Vue, Laravel, Docker],
-  architecture: ["monolith", "test driven development", "end to end"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+  skills: {
+    leadership: true,
+    teamwork: true,
+    problemSolving: true,
+    webDevelopment: {
+      languages: ["Javascript", "Python", "PHP"],
+      frameworks: ["Vue.js", "Laravel", "jQuery", "Tailwind CSS"],
+    },
+    tools: ["Docker"],
+    architecture: ["monolith", "test driven development", "end to end"],
+  },
+  challenge: "Currently embarking on a coding odyssey, weaving innovation and precision into every line of code. 🚀",
+};
 ```
 
  <p align="center">
