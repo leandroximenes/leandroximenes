@@ -1,7 +1,7 @@
 <h2> Hi, I'm Leandro Ximenes!👋</h2>
 <p>
  <em>
-  Backend developer at [BigNerve](https://bignerve.com)</br>
+  Backend developer at https://bignerve.com</br>
   Over 10 years of experience
   </em>
 </p>
