@@ -1,7 +1,7 @@
 <h2> Hi, I'm Leandro Ximenes!👋</h2>
 <p>
  <em>
-  Software Enginner at Brasilian Army</br>
+  Backend developer at BigNerve</br>
   Hover 10 years of experience
   </em>
 </p>
