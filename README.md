@@ -2,7 +2,7 @@
 <p>
  <em>
   Backend developer at [BigNerve](https://bignerve.com)</br>
-  Hover 10 years of experience
+  Over 10 years of experience
   </em>
 </p>
 
