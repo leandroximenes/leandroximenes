@@ -22,7 +22,7 @@ const leandro = {
     problemSolving: true,
     webDevelopment: {
       languages: ["Javascript", "Python", "PHP"],
-      frameworks: ["Vue.js", "Laravel", "jQuery", "Tailwind CSS"],
+      frameworks: ["Nest.js", "Vue.js", "Laravel", "jQuery", "Tailwind CSS"],
     },
     tools: ["Docker"],
     architecture: ["monolith", "test driven development", "end to end"],
