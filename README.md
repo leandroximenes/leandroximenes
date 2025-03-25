@@ -8,7 +8,7 @@
 
 [![Linkedin: leandroximenes](https://img.shields.io/badge/-leandroximenes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroximenes/)](https://www.linkedin.com/in/leandroximenes/)
 <br/>
-[leandroximenes..dev.br](https://leandroximenes.dev.br)
+[leandroximenes.dev.br](https://leandroximenes.dev.br)
 
 
 ### A little more about me...  
