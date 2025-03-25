@@ -6,10 +6,13 @@
   </em>
 </p>
 
-[![Linkedin: leandroximenes](https://img.shields.io/badge/-leandroximenes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroximenes/)](https://www.linkedin.com/in/leandroximenes/)
+<a href="https://www.linkedin.com/in/leandroximenes" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/leandroximenes-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Learning">
+</a>
 <br/>
-[leandroximenes.dev.br](https://leandroximenes.dev.br)
-
+<a href="https://leandroximenes.dev.br" target="_blank">
+    <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Website">
+</a>
 
 ### A little more about me...  
 
